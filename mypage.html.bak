@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<style>
+    table,th,td{
+        border: 1px solid black;
+        border-collapse:collapse;
+    }
+</style> 
+<head>
+    <title> My Website </title>
+</head>
+
+<body style="background-color: #D0EBE0; margin: 0;" background="c8e76ea5c3db5e38a5c4f27bfbbc26bd.jpg" vlink="#000" link="#000">
+    <div class="main" id="home">
+	
+		<tr>
+        <br/>
+        <h3 align="center">
+            <font face="sans-serif" size="5" color="#2c3e50">RAZANI'S PAGE</font>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <font face="lato" size="4">
+                <a href="#home">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="#aboutme">ABOUT ME</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="#portfolio">MY PROFILE</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="subject.html">SUBJECT</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="#contact">CONTACT US</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="login.html">LOGIN</a>
+            </font>
+        </h3>
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><!-- to adjust space -->
+      
+        
+    </div>
+	
+	<!-- Welcome -->
+    <div id="home" style="font-family: Helvetica; height: 500px; background-color: #759FBC;">
+        <div style="padding-top: 15%; padding-bottom: 15%;">
+            <h1 style="text-align:center; color:white; letter-spacing: 2px; font-weight: bold;">Welcome To My Website
+            </h1>
+        </div>
+    </div><br><br><br>
+
+
+    <!-- about me -->
+    <br><br><br><br><br><br><br>
+    <!-- <hr> -->
+    <br><br><br><br>
+    <div id="aboutme">
+         <hr color="#00000" width="20%">  <!--to make line -->
+        <p align="center">
+            <font face="Brush Script MT" color="#102542" size="10.5">ABOUT ME</font>
+        </p>
+        <hr color="#00000" width="20%">   <!--to make line -->
+        <br><br>
+        <table align="center" cellspacing="20" cellpadding="20" style="padding:5px">
+            
+            <tr>
+          <th colspan="2">Who Am I</th>
+	</tr>
+    
+    <tr>
+        <td><p style="color:#314093;">My name</p></td>
+        <td> Nur Razani Aqilah Binti Abdul Razak</td>
+		
+    </tr>
+     
+	<tr>
+	     <td><p style="color:#314093;">Age:</p></td>
+		 <td>21</td>
+	</tr>
+	
+	<tr>
+	    <td><p style="color:#314093;">Adress:</p></td>
+		<td>No 15, Jalan CS2, <br>
+		Taman Cheng Setia,<br>
+		76450 Melaka. </td>
+		
+
+  </tr>
+  
+  <tr>
+        <td><p style="color:#314093;">Interest</p></td>
+		<td> <ul>   <li>Sleeping</li>  
+                    <li>Shopping</li>
+					<li>Travelling</li>
+		</ul> </td>
+		
+  </tr>
+  <tr>
+        <td><p style="color:#314093;">Hobby</p></td>
+		<td> <ul>   <li>Watching Kdrama</li>  
+                    <li>Driving</li>
+					<li>Travelling</li>
+		</ul> </td>
+		
+  </tr>
+  
+<tr>
+	    <td><p style="color:#314093;">Study</p></td>
+		<td>UiTM Johor Campus Segamat </td>
+		
+
+  </tr>
+
+  <td ><p style="color:#314093;">Course</p></td>
+		<td>Islamic Banking</td>
+
+        </table>
+    </div>
+
+
+
+    <!-- portfolio -->
+    <br><br><br><br><br><br><br><br><br><br>
+    <!-- <hr> -->
+    <br><br><br><br><br><br>
+    <div id="portfolio">
+        <hr color="#000" width="20%">
+        <p align="center">
+            <font face="Brush Script MT" color="#102542" size="10.5">MY PROFILE</font>
+        </p>
+        <hr color="#000" width="20%">
+        <br><br>
+        <table align="center" cellspacing="20" cellpadding="20" style="padding:5px">
+            
+           <tr>
+	    <th> MY PICTURE </th>
+	    <th><img src="IWBG1519.jpg" width="200" height="300"> </td>
+		<tr>
+		    <th> My audio </th>
+			<td> <audio controls autoplay> <source src="[응답하라 1988 Part 4] 박보람 (Park Boram) - 혜화동 (혹은 쌍문동) MV.mp3" type="audio/mpeg"></audio> </td>
+		</tr>
+		
+		<tr>
+		    <th> My video </th>
+			<td> <video width="500" height="700" controls> <source src="[응답하라 1988 Part 4] 박보람 (Park Boram) - 혜화동 (혹은 쌍문동) MV.mp4" type= "video/mp4"> </video> </td> 
+		</tr>
+        
+		
+		<tr>
+		    <th> My resume </th>
+		    <td> <a href="Resume_Nur_Razani_Aqilah.png" target="_blank"> My resume </a> </td>
+			
+		</tr>
+
+        <tr>
+		    <th> Course </th>
+			<td> BA <sup> 249</sup>        </td>
+		</tr>
+		
+		<tr>
+		    <th> Group </th>
+			<td> JBA<sub>249</sub> </td>
+		
+		</tr>
+            
+        </table>
+    </div>
+
+
+     <!-- My location -->
+    <br><br><br><br><br><br><br><br><br><br>
+    <!-- <hr> -->
+    <br><br><br><br><br><br>
+    <div>
+         <hr color="#00000" width="20%">  <!--to make line -->
+        <p align="center">
+            <font face="Brush Script MT" color="#102542" size="10.5">MY LOCATION</font>
+        </p>
+        <hr color="#00000" width="20%">   <!--to make line -->
+        <br><br>
+        <table align="center" cellspacing="10" cellpadding="15" style="padding:5px">
+           
+         <center>  
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63786.43688596206!2d102.17197444879247!3d2.282686524073107!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31d1fa5643640c85%3A0x98e7e3a9c7eb7258!2sTaman%20Cheng%20Setia%2C%2076450%20Malacca!5e0!3m2!1sen!2smy!4v1636636630931!5m2!1sen!2smy" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                </center>
+
+
+
+        </table>
+    </div>
+
+         
+
+
+
+
+    <!-- contact us -->
+    <br><br><br><br><br><br><br><br><br><br>
+    <div id="contact"> 
+        <hr color="#000" width="20%">  <!--to make line -->
+        <p align="center">
+            <font face="Garamond (serif)" color="#102542" size="5.5">CONTACT US</font>
+        </p>
+        <hr color="#000" width="20%">  <!--to make line -->
+        <br><br>
+        <form>
+            <table align="center" cellpadding="5" cellspacing="12" border="1" height="200">
+                <tr>
+                    <td>
+                        <input type="text" name="first_name" placeholder="First Name" required="required" />
+                    </td>
+                    <td>
+                        <input type="text" name="Last_name" placeholder="Last Name" required="required" />
+                    </td>
+                </tr>
+                <tr>
+                    <td><input type="email" name="email" placeholder="Email" required="required" /></td>
+                    <td><input type="text" name="subject" placeholder="Subject" required="required" /></td>
+                </tr>
+                <tr>
+                    <th colspan="2">
+                        <textarea placeholder="Enter Message" ></textarea>
+                    </th>
+                </tr>
+                <tr>
+                    <th colspan="2">
+                        <input type="submit" name="contact-submit" value="SEND">
+                    </th>
+                </tr>
+            </table>
+        </form>
+    </div>
+    <br><br><br><br><br>
+	<div id="home" style="font-family: Helvetica; height: 280px; background-color: #759FBC;">
+    <hr color="#000">
+    <p align="center">
+        <a href="https://uitm.edu.my/index.php/en/">
+            <img src="uitm.png"><br></a>
+			<br>
+            <font face="sans-serif" color="#000" size="5.5">UITM DIHATIKU</font><br>
+    </p>
+    <p align="center">
+        <font face="sans-serif" size="4" color="#000">
+            COPYRIGHT 2021, THIS IS MY PAGE
+        </font>
+    </p>
+</body>
+
+</html>
